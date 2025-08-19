@@ -1,0 +1,920 @@
+[
+  {
+    "Model": {
+      "Name": "M\u00E1slo Madeta jiho\u010Desk\u00E9 retro",
+      "Description": "m\u00E1slo Madeta jiho\u010Desk\u00E9 retro",
+      "Price": 64.9,
+      "Weight": 250,
+      "Units": "g"
+    },
+    "Name": "M\u00E1slo Madeta jiho\u010Desk\u00E9 retro",
+    "Description": "m\u00E1slo Madeta jiho\u010Desk\u00E9 retro",
+    "FinalWeight": "250",
+    "Weight": 250,
+    "Units": "g",
+    "Amount": 2,
+    "UnitPrice": 64.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "FinCarr\u00E9 Milk Chocolate (100% Alpine Milk)",
+      "Description": "FinCarr\u00E9 Milk Chocolate (100% Alpine Milk) \u010Dokol\u00E1da ml\u00E9\u010Dn\u00E1",
+      "Price": 34.9,
+      "Weight": 100,
+      "Units": "g"
+    },
+    "Name": "FinCarr\u00E9 Milk Chocolate (100% Alpine Milk)",
+    "Description": "FinCarr\u00E9 Milk Chocolate (100% Alpine Milk) \u010Dokol\u00E1da ml\u00E9\u010Dn\u00E1",
+    "FinalWeight": "100",
+    "Weight": 100,
+    "Units": "g",
+    "Amount": 2,
+    "UnitPrice": 34.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pomaz\u00E1nkov\u00E9 m\u00E1slo Pilos",
+      "Description": "pomaz\u00E1nkov\u00E9 m\u00E1slo Pilos lah\u016Fdkov\u00E9 tradi\u010Dn\u00ED",
+      "Price": 30.9,
+      "Weight": 200,
+      "Units": "g"
+    },
+    "Name": "Pomaz\u00E1nkov\u00E9 m\u00E1slo Pilos",
+    "Description": "pomaz\u00E1nkov\u00E9 m\u00E1slo Pilos lah\u016Fdkov\u00E9 tradi\u010Dn\u00ED",
+    "FinalWeight": "200",
+    "Weight": 200,
+    "Units": "g",
+    "Amount": 2,
+    "UnitPrice": 30.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Ban\u00E1ny",
+      "Description": "ban\u00E1ny",
+      "Price": 37.9,
+      "Weight": 1,
+      "Units": "kg"
+    },
+    "Name": "Ban\u00E1ny",
+    "Description": "ban\u00E1ny",
+    "FinalWeight": "1,094",
+    "Weight": 1,
+    "Units": "kg",
+    "Amount": 1,
+    "UnitPrice": 37.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Donut s \u010Dokol\u00E1dovou n\u00E1pln\u00ED",
+      "Description": "donut s \u010Dokol\u00E1dovou n\u00E1pln\u00ED",
+      "Price": 15.9,
+      "Weight": 67,
+      "Units": "g"
+    },
+    "Name": "Donut s \u010Dokol\u00E1dovou n\u00E1pln\u00ED",
+    "Description": "donut s \u010Dokol\u00E1dovou n\u00E1pln\u00ED",
+    "FinalWeight": "67",
+    "Weight": 67,
+    "Units": "g",
+    "Amount": 2,
+    "UnitPrice": 15.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Cere\u00E1ln\u00ED kaiserka",
+      "Description": "kaiserka cere\u00E1ln\u00ED",
+      "Price": 4.9,
+      "Weight": 60,
+      "Units": "g"
+    },
+    "Name": "Cere\u00E1ln\u00ED kaiserka",
+    "Description": "kaiserka cere\u00E1ln\u00ED",
+    "FinalWeight": "60",
+    "Weight": 60,
+    "Units": "g",
+    "Amount": 3,
+    "UnitPrice": 4.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pilos ml\u00E9ko plnotu\u010Dn\u00E9",
+      "Description": "ml\u00E9ko trvanliv\u00E9 Pilos plnotu\u010Dn\u00E9 3,5%",
+      "Price": 23.9,
+      "Weight": 1,
+      "Units": "l"
+    },
+    "Name": "Pilos ml\u00E9ko plnotu\u010Dn\u00E9",
+    "Description": "ml\u00E9ko trvanliv\u00E9 Pilos plnotu\u010Dn\u00E9 3,5%",
+    "FinalWeight": "1",
+    "Weight": 1,
+    "Units": "l",
+    "Amount": 2,
+    "UnitPrice": 23.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Floralys kapesn\u00EDky 200ks dvou vrstv\u00E9",
+      "Description": "box \u00E1200ks pap\u00EDrov\u00E9 kosmetick\u00E9 kapesn\u00EDky dvouvrstv\u00E9 Floralys",
+      "Price": 29.9,
+      "Weight": 1,
+      "Units": "x"
+    },
+    "Name": "Floralys kapesn\u00EDky 200ks dvou vrstv\u00E9",
+    "Description": "box \u00E1200ks pap\u00EDrov\u00E9 kosmetick\u00E9 kapesn\u00EDky dvouvrstv\u00E9 Floralys",
+    "FinalWeight": "1",
+    "Weight": 1,
+    "Units": "x",
+    "Amount": 1,
+    "UnitPrice": 29.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Toaletn\u00ED pap\u00EDr Floralys Classic 2-vrstv\u00FD",
+      "Description": "role toaletn\u00ED pap\u00EDr Floralys Classic 2-vrstv\u00FD neparf\u00E9movan\u00FD 476 \u00FAtr\u017Ek\u016F",
+      "Price": 19.9,
+      "Weight": 1,
+      "Units": "x"
+    },
+    "Name": "Toaletn\u00ED pap\u00EDr Floralys Classic 2-vrstv\u00FD",
+    "Description": "role toaletn\u00ED pap\u00EDr Floralys Classic 2-vrstv\u00FD neparf\u00E9movan\u00FD 476 \u00FAtr\u017Ek\u016F",
+    "FinalWeight": "1",
+    "Weight": 1,
+    "Units": "x",
+    "Amount": 2,
+    "UnitPrice": 19.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Paprika mini mix barev",
+      "Description": "paprika mini mix barev",
+      "Price": 24.9,
+      "Weight": 150,
+      "Units": "g"
+    },
+    "Name": "Paprika mini mix barev",
+    "Description": "paprika mini mix barev",
+    "FinalWeight": "150",
+    "Weight": 150,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 24.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Castello kuku\u0159i\u010Dn\u00E9 waffle solen\u00E9",
+      "Description": "kuku\u0159i\u010Dn\u00E9 waffle solen\u00E9 bez lepku Castello Corn Waffles with Salt extra slim",
+      "Price": 8.9,
+      "Weight": 35,
+      "Units": "g"
+    },
+    "Name": "Castello kuku\u0159i\u010Dn\u00E9 waffle solen\u00E9",
+    "Description": "kuku\u0159i\u010Dn\u00E9 waffle solen\u00E9 bez lepku Castello Corn Waffles with Salt extra slim",
+    "FinalWeight": "35",
+    "Weight": 35,
+    "Units": "g",
+    "Amount": 4,
+    "UnitPrice": 8.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "30 ks M vajec",
+      "Description": "plato \u00E130ks vejce velikost M podest\u00FDlkov\u00E1",
+      "Price": 184.9,
+      "Weight": 1,
+      "Units": "x"
+    },
+    "Name": "30 ks M vajec",
+    "Description": "plato \u00E130ks vejce velikost M podest\u00FDlkov\u00E1",
+    "FinalWeight": "1",
+    "Weight": 1,
+    "Units": "x",
+    "Amount": 1,
+    "UnitPrice": 184.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Ku\u0159ec\u00ED prsn\u00ED \u0159\u00EDzky vcelku",
+      "Description": "ku\u0159ec\u00ED prsn\u00ED \u0159\u00EDzky chlazen\u00E9 farm\u00E1\u0159sk\u00E9 vcelku",
+      "Price": 239.9,
+      "Weight": 1,
+      "Units": "kg"
+    },
+    "Name": "Ku\u0159ec\u00ED prsn\u00ED \u0159\u00EDzky vcelku",
+    "Description": "ku\u0159ec\u00ED prsn\u00ED \u0159\u00EDzky chlazen\u00E9 farm\u00E1\u0159sk\u00E9 vcelku",
+    "FinalWeight": "1,032",
+    "Weight": 1,
+    "Units": "kg",
+    "Amount": 1,
+    "UnitPrice": 239.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "kapsi\u010Dka Hello jahody XXL",
+      "Description": "ovocn\u00E1 kapsi\u010Dka Hello s jahodami \u2013 ovocn\u00E1 p\u0159esn\u00EDd\u00E1vka XXL",
+      "Price": 20.9,
+      "Weight": 200,
+      "Units": "g"
+    },
+    "Name": "kapsi\u010Dka Hello jahody XXL",
+    "Description": "ovocn\u00E1 kapsi\u010Dka Hello s jahodami \u2013 ovocn\u00E1 p\u0159esn\u00EDd\u00E1vka XXL",
+    "FinalWeight": "200",
+    "Weight": 200,
+    "Units": "g",
+    "Amount": 4,
+    "UnitPrice": 20.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "kapsi\u010Dka Hello jablka XXL",
+      "Description": "ovocn\u00E1 kapsi\u010Dka Hello s jablky \u2013 ovocn\u00E1 p\u0159esn\u00EDd\u00E1vka XXL",
+      "Price": 20.9,
+      "Weight": 200,
+      "Units": "g"
+    },
+    "Name": "kapsi\u010Dka Hello jablka XXL",
+    "Description": "ovocn\u00E1 kapsi\u010Dka Hello s jablky \u2013 ovocn\u00E1 p\u0159esn\u00EDd\u00E1vka XXL",
+    "FinalWeight": "200",
+    "Weight": 200,
+    "Units": "g",
+    "Amount": 4,
+    "UnitPrice": 20.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Belbake cukr krupice",
+      "Description": "cukr krupice Belbake",
+      "Price": 17.9,
+      "Weight": 1,
+      "Units": "kg"
+    },
+    "Name": "Belbake cukr krupice",
+    "Description": "cukr krupice Belbake",
+    "FinalWeight": "1",
+    "Weight": 1,
+    "Units": "kg",
+    "Amount": 1,
+    "UnitPrice": 17.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Freshona pol\u00E9vkov\u00E1 sm\u011Bs mra\u017Een\u00E1",
+      "Description": "pol\u00E9vkov\u00E1 sm\u011Bs Freshona jemn\u011B kr\u00E1jen\u00E1 hluboce zmra\u017Een\u00E1",
+      "Price": 22.9,
+      "Weight": 450,
+      "Units": "g"
+    },
+    "Name": "Freshona pol\u00E9vkov\u00E1 sm\u011Bs mra\u017Een\u00E1",
+    "Description": "pol\u00E9vkov\u00E1 sm\u011Bs Freshona jemn\u011B kr\u00E1jen\u00E1 hluboce zmra\u017Een\u00E1",
+    "FinalWeight": "450",
+    "Weight": 450,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 22.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Dulano vide\u0148sk\u00E9 p\u00E1rky",
+      "Description": "(2x 200g) delikatesn\u00ED v\u00EDde\u0148sk\u00E9 p\u00E1rky Dulano ve skopov\u00E9m st\u0159\u00EDvku, 86% masa",
+      "Price": 99.9,
+      "Weight": 400,
+      "Units": "g"
+    },
+    "Name": "Dulano vide\u0148sk\u00E9 p\u00E1rky",
+    "Description": "(2x 200g) delikatesn\u00ED v\u00EDde\u0148sk\u00E9 p\u00E1rky Dulano ve skopov\u00E9m st\u0159\u00EDvku, 86% masa",
+    "FinalWeight": "400",
+    "Weight": 400,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 99.9,
+    "DiscountInput": "20%"
+  },
+  {
+    "Model": {
+      "Name": "Vep\u0159ov\u00E1 pe\u010Den\u011B pl\u00E1tky",
+      "Description": "vep\u0159ov\u00E1 pe\u010Den\u011B pl\u00E1tky chlazen\u00E1",
+      "Price": 112.9,
+      "Weight": 500,
+      "Units": "g"
+    },
+    "Name": "Vep\u0159ov\u00E1 pe\u010Den\u011B pl\u00E1tky",
+    "Description": "vep\u0159ov\u00E1 pe\u010Den\u011B pl\u00E1tky chlazen\u00E1",
+    "FinalWeight": "500",
+    "Weight": 500,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 112.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Lidl rohl\u00EDk",
+      "Description": "rohl\u00EDk",
+      "Price": 2.8,
+      "Weight": 43,
+      "Units": "g"
+    },
+    "Name": "Lidl rohl\u00EDk",
+    "Description": "rohl\u00EDk",
+    "FinalWeight": "43",
+    "Weight": 43,
+    "Units": "g",
+    "Amount": 4,
+    "UnitPrice": 2.8,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Favorina kokosov\u00E9 kostky v ml\u00E9\u010Dn\u00E9 \u010Dokol\u00E1d\u011B",
+      "Description": "kokosov\u00E9 kostky v ml\u00E9\u010Dn\u00E9 \u010Dokol\u00E1d\u011B Favorina",
+      "Price": 49.9,
+      "Weight": 100,
+      "Units": "g"
+    },
+    "Name": "Favorina kokosov\u00E9 kostky v ml\u00E9\u010Dn\u00E9 \u010Dokol\u00E1d\u011B",
+    "Description": "kokosov\u00E9 kostky v ml\u00E9\u010Dn\u00E9 \u010Dokol\u00E1d\u011B Favorina",
+    "FinalWeight": "100",
+    "Weight": 100,
+    "Units": "g",
+    "Amount": 3,
+    "UnitPrice": 49.9,
+    "DiscountInput": "33,33%"
+  },
+  {
+    "Model": {
+      "Name": "Vitana km\u00EDn drcen\u00FD ko\u0159en\u00ED",
+      "Description": "ko\u0159en\u00ED Vitana Km\u00EDn drcen\u00FD v zav\u00EDrac\u00EDm s\u00E1\u010Dku",
+      "Price": 17.9,
+      "Weight": 28,
+      "Units": "g"
+    },
+    "Name": "Vitana km\u00EDn drcen\u00FD ko\u0159en\u00ED",
+    "Description": "ko\u0159en\u00ED Vitana Km\u00EDn drcen\u00FD v zav\u00EDrac\u00EDm s\u00E1\u010Dku",
+    "FinalWeight": "28",
+    "Weight": 28,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 17.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pomeran\u010De Premium",
+      "Description": "pomeran\u010De Premium",
+      "Price": 39.7,
+      "Weight": 1,
+      "Units": "kg"
+    },
+    "Name": "Pomeran\u010De Premium",
+    "Description": "pomeran\u010De Premium",
+    "FinalWeight": "0,878",
+    "Weight": 1,
+    "Units": "kg",
+    "Amount": 1,
+    "UnitPrice": 39.7,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pikok loveck\u00FD sal\u00E1m balen\u00FD",
+      "Description": "loveck\u00FD sal\u00E1m balen\u00FD Pikok",
+      "Price": 29.9,
+      "Weight": 100,
+      "Units": "g"
+    },
+    "Name": "Pikok loveck\u00FD sal\u00E1m balen\u00FD",
+    "Description": "loveck\u00FD sal\u00E1m balen\u00FD Pikok",
+    "FinalWeight": "100",
+    "Weight": 100,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 29.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pikok kladensk\u00E1 pe\u010Den\u011B balen\u00FD",
+      "Description": "kladensk\u00E1 pe\u010Den\u011B balen\u00FD Pikok",
+      "Price": 29.9,
+      "Weight": 100,
+      "Units": "g"
+    },
+    "Name": "Pikok kladensk\u00E1 pe\u010Den\u011B balen\u00FD",
+    "Description": "kladensk\u00E1 pe\u010Den\u011B balen\u00FD Pikok",
+    "FinalWeight": "100",
+    "Weight": 100,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 29.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Alesto ke\u0161u nepra\u017Een\u00E1",
+      "Description": "Alesto Selection j\u00E1dra ke\u0161u o\u0159ech\u016F napra\u017Een\u00E1 Cashew Nuts Natural",
+      "Price": 79.9,
+      "Weight": 200,
+      "Units": "g"
+    },
+    "Name": "Alesto ke\u0161u nepra\u017Een\u00E1",
+    "Description": "Alesto Selection j\u00E1dra ke\u0161u o\u0159ech\u016F napra\u017Een\u00E1 Cashew Nuts Natural",
+    "FinalWeight": "200",
+    "Weight": 200,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 79.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Italat mozzarella v n\u00E1levu",
+      "Description": "mozzarella Italat v n\u00E1levu tradi\u010Dn\u00ED italsk\u00FD s\u00FDr",
+      "Price": 17.9,
+      "Weight": 100,
+      "Units": "g"
+    },
+    "Name": "Italat mozzarella v n\u00E1levu",
+    "Description": "mozzarella Italat v n\u00E1levu tradi\u010Dn\u00ED italsk\u00FD s\u00FDr",
+    "FinalWeight": "100",
+    "Weight": 100,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 17.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Korunn\u00ED miner\u00E1ln\u00ED jemn\u011B perliv\u00E1 PET",
+      "Description": "p\u0159\u00EDrodn\u00ED miner\u00E1ln\u00ED voda Korunn\u00ED jemn\u011B perliv\u00E1 PET",
+      "Price": 11.9,
+      "Weight": 1.5,
+      "Units": "l"
+    },
+    "Name": "Korunn\u00ED miner\u00E1ln\u00ED jemn\u011B perliv\u00E1 PET",
+    "Description": "p\u0159\u00EDrodn\u00ED miner\u00E1ln\u00ED voda Korunn\u00ED jemn\u011B perliv\u00E1 PET",
+    "FinalWeight": "1.5",
+    "Weight": 1.5,
+    "Units": "l",
+    "Amount": 1,
+    "UnitPrice": 11.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pod\u011Bbradka pomeran\u010Dov\u00E1 miner\u00E1ln\u00ED jemn\u011B perliv\u00E1 PET",
+      "Description": "miner\u00E1ln\u00ED voda Pod\u011Bbradka jemn\u011B perliv\u00E1 s p\u0159\u00EDchut\u00ED pomeran\u010D PET",
+      "Price": 12.9,
+      "Weight": 1.5,
+      "Units": "l"
+    },
+    "Name": "Pod\u011Bbradka pomeran\u010Dov\u00E1 miner\u00E1ln\u00ED jemn\u011B perliv\u00E1 PET",
+    "Description": "miner\u00E1ln\u00ED voda Pod\u011Bbradka jemn\u011B perliv\u00E1 s p\u0159\u00EDchut\u00ED pomeran\u010D PET",
+    "FinalWeight": "1.5",
+    "Weight": 1.5,
+    "Units": "l",
+    "Amount": 1,
+    "UnitPrice": 12.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Dr Witt Fit mango, citr\u00F3n, zelen\u00FD \u010Daj",
+      "Description": "Dr Witt Fit s p\u0159\u00EDchut\u00ED mango, citr\u00F3n, zelen\u00FD \u010Daj nesycen\u00FD nealkoholick\u00FD n\u00E1poj vyroben\u00FD z miner\u00E1ln\u00ED vody s vitam\u00EDny C, B1, B3, B6, B12 a L- karnitinem, se sladidly",
+      "Price": 18.9,
+      "Weight": 750,
+      "Units": "ml"
+    },
+    "Name": "Dr Witt Fit mango, citr\u00F3n, zelen\u00FD \u010Daj",
+    "Description": "Dr Witt Fit s p\u0159\u00EDchut\u00ED mango, citr\u00F3n, zelen\u00FD \u010Daj nesycen\u00FD nealkoholick\u00FD n\u00E1poj vyroben\u00FD z miner\u00E1ln\u00ED vody s vitam\u00EDny C, B1, B3, B6, B12 a L- karnitinem, se sladidly",
+    "FinalWeight": "750",
+    "Weight": 750,
+    "Units": "ml",
+    "Amount": 1,
+    "UnitPrice": 18.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pikok kabanosky uher\u00E1kov\u00E9",
+      "Description": "Kabanosky uher\u00E1kov\u00E9 Pikok (100g vyrobeno ze 180g masa)",
+      "Price": 47.9,
+      "Weight": 100,
+      "Units": "g"
+    },
+    "Name": "Pikok kabanosky uher\u00E1kov\u00E9",
+    "Description": "Kabanosky uher\u00E1kov\u00E9 Pikok (100g vyrobeno ze 180g masa)",
+    "FinalWeight": "100",
+    "Weight": 100,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 47.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Barilla Classic Fusili",
+      "Description": "Barilla Classic Fusilli No.98 (al dente 11 min) semolinov\u00E9 t\u011Bstoviny su\u0161en\u00E9 z krupice z tvrd\u00E9 p\u0161enice",
+      "Price": 34.9,
+      "Weight": 500,
+      "Units": "g"
+    },
+    "Name": "Barilla Classic Fusili",
+    "Description": "Barilla Classic Fusilli No.98 (al dente 11 min) semolinov\u00E9 t\u011Bstoviny su\u0161en\u00E9 z krupice z tvrd\u00E9 p\u0161enice",
+    "FinalWeight": "500",
+    "Weight": 500,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 34.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pikok lyonsk\u00FD sal\u00E1m",
+      "Description": "lyonsk\u00FD sal\u00E1m Pikok kr\u00E1jen\u00FD (lahodn\u00E1 chu\u0165, obsah 84% masa)",
+      "Price": 29.9,
+      "Weight": 200,
+      "Units": "g"
+    },
+    "Name": "Pikok lyonsk\u00FD sal\u00E1m",
+    "Description": "lyonsk\u00FD sal\u00E1m Pikok kr\u00E1jen\u00FD (lahodn\u00E1 chu\u0165, obsah 84% masa)",
+    "FinalWeight": "200",
+    "Weight": 200,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 29.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pilos s\u00FDr Gouda",
+      "Description": "s\u00FDr gouda Pilos 45% pl\u00E1tky",
+      "Price": 32.9,
+      "Weight": 150,
+      "Units": "g"
+    },
+    "Name": "Pilos s\u00FDr Gouda",
+    "Description": "s\u00FDr gouda Pilos 45% pl\u00E1tky",
+    "FinalWeight": "150",
+    "Weight": 150,
+    "Units": "g",
+    "Amount": 4,
+    "UnitPrice": 32.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Maitre Jean Pierre Croissant kakaov\u00FD",
+      "Description": "Croissant Maitre Jean Pierre with cocoa cream filling jemn\u00E9 pe\u010Divo s kakaovou kr\u00E9movou n\u00E1pln\u00ED",
+      "Price": 11.9,
+      "Weight": 85,
+      "Units": "g"
+    },
+    "Name": "Maitre Jean Pierre Croissant kakaov\u00FD",
+    "Description": "Croissant Maitre Jean Pierre with cocoa cream filling jemn\u00E9 pe\u010Divo s kakaovou kr\u00E9movou n\u00E1pln\u00ED",
+    "FinalWeight": "85",
+    "Weight": 85,
+    "Units": "g",
+    "Amount": 5,
+    "UnitPrice": 11.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "7Days croissant HazelNut",
+      "Description": "croissant 7Days HazelNut jemn\u00E9 pe\u010Divo s l\u00EDskoo\u0159echovou n\u00E1pln\u00ED",
+      "Price": 18.9,
+      "Weight": 60,
+      "Units": "g"
+    },
+    "Name": "7Days croissant HazelNut",
+    "Description": "croissant 7Days HazelNut jemn\u00E9 pe\u010Divo s l\u00EDskoo\u0159echovou n\u00E1pln\u00ED",
+    "FinalWeight": "60",
+    "Weight": 60,
+    "Units": "g",
+    "Amount": 4,
+    "UnitPrice": 18.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Baresa olivy mix citron a bazalka bez pecek",
+      "Description": "Baresa Olivy mix citron a bazalka bez pecek (zelen\u00E9 olivy bez pecek a \u010Dern\u00E9 olivy bez pecek marinovan\u00E9 s citronovou \u0161\u0165\u00E1vou a bazalkou)",
+      "Price": 49.9,
+      "Weight": 150,
+      "Units": "g"
+    },
+    "Name": "Baresa olivy mix citron a bazalka bez pecek",
+    "Description": "Baresa Olivy mix citron a bazalka bez pecek (zelen\u00E9 olivy bez pecek a \u010Dern\u00E9 olivy bez pecek marinovan\u00E9 s citronovou \u0161\u0165\u00E1vou a bazalkou)",
+    "FinalWeight": "150",
+    "Weight": 150,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 49.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Alliance vaje\u010Dn\u00FD lik\u00E9r XXL",
+      "Description": "vaje\u010Dn\u00FD lik\u00E9r Alliance 15% alc XXL sklo",
+      "Price": 159.9,
+      "Weight": 1,
+      "Units": "l"
+    },
+    "Name": "Alliance vaje\u010Dn\u00FD lik\u00E9r XXL",
+    "Description": "vaje\u010Dn\u00FD lik\u00E9r Alliance 15% alc XXL sklo",
+    "FinalWeight": "1",
+    "Weight": 1,
+    "Units": "l",
+    "Amount": 1,
+    "UnitPrice": 159.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Chef Select tu\u0148\u00E1kov\u00E1 pomaz\u00E1nka",
+      "Description": "Tu\u0148\u00E1kov\u00E1 pomaz\u00E1nka Chef Select (obsah 45% tu\u0148\u00E1ka)",
+      "Price": 34.9,
+      "Weight": 125,
+      "Units": "g"
+    },
+    "Name": "Chef Select tu\u0148\u00E1kov\u00E1 pomaz\u00E1nka",
+    "Description": "Tu\u0148\u00E1kov\u00E1 pomaz\u00E1nka Chef Select (obsah 45% tu\u0148\u00E1ka)",
+    "FinalWeight": "125",
+    "Weight": 125,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 34.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Nautica ryb\u00ED sal\u00E1t pikantn\u00ED",
+      "Description": "Ryb\u00ED sal\u00E1t pikantn\u00ED Nautica",
+      "Price": 24.9,
+      "Weight": 150,
+      "Units": "g"
+    },
+    "Name": "Nautica ryb\u00ED sal\u00E1t pikantn\u00ED",
+    "Description": "Ryb\u00ED sal\u00E1t pikantn\u00ED Nautica",
+    "FinalWeight": "150",
+    "Weight": 150,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 24.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Chef Select bageta ku\u0159ec\u00ED nugety",
+      "Description": "bageta Ku\u0159ec\u00ED nugety s pikantn\u00EDm dresinkem se zel\u00EDm Chef Select (oblo\u017Een\u00E1 bageta s ku\u0159ec\u00EDmi nugetami, dresinkem a zel\u00EDm)",
+      "Price": 56.9,
+      "Weight": 240,
+      "Units": "g"
+    },
+    "Name": "Chef Select bageta ku\u0159ec\u00ED nugety",
+    "Description": "bageta Ku\u0159ec\u00ED nugety s pikantn\u00EDm dresinkem se zel\u00EDm Chef Select (oblo\u017Een\u00E1 bageta s ku\u0159ec\u00EDmi nugetami, dresinkem a zel\u00EDm)",
+    "FinalWeight": "240",
+    "Weight": 240,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 56.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Chef Select bageta stripsy",
+      "Description": "bageta Pikantn\u00ED stripsy s majon\u00E9zou a sal\u00E1tem Chef Select (oblo\u017Een\u00E1 bageta s ku\u0159ec\u00EDmi stripsy, majon\u00E9zou a sal\u00E1tem)",
+      "Price": 56.9,
+      "Weight": 240,
+      "Units": "g"
+    },
+    "Name": "Chef Select bageta stripsy",
+    "Description": "bageta Pikantn\u00ED stripsy s majon\u00E9zou a sal\u00E1tem Chef Select (oblo\u017Een\u00E1 bageta s ku\u0159ec\u00EDmi stripsy, majon\u00E9zou a sal\u00E1tem)",
+    "FinalWeight": "240",
+    "Weight": 240,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 56.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Budi\u0161 miner\u00E1ln\u00ED jemn\u011B perliv\u00E1 PET",
+      "Description": "p\u0159\u00EDrodn\u00ED miner\u00E1ln\u00ED voda Budi\u0161 jemn\u011B perliv\u00E1 PET (p\u016Fsob\u00ED p\u0159\u00EDzniv\u011B na tr\u00E1ven\u00ED)",
+      "Price": 10.9,
+      "Weight": 1.5,
+      "Units": "l"
+    },
+    "Name": "Budi\u0161 miner\u00E1ln\u00ED jemn\u011B perliv\u00E1 PET",
+    "Description": "p\u0159\u00EDrodn\u00ED miner\u00E1ln\u00ED voda Budi\u0161 jemn\u011B perliv\u00E1 PET (p\u016Fsob\u00ED p\u0159\u00EDzniv\u011B na tr\u00E1ven\u00ED)",
+    "FinalWeight": "1.5",
+    "Weight": 1.5,
+    "Units": "l",
+    "Amount": 1,
+    "UnitPrice": 10.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Culinea listov\u00E9 t\u011Bsto mra\u017Een\u00E9",
+      "Description": "Listov\u00E9 t\u011Bsto Culinea mra\u017Een\u00E9",
+      "Price": 21.9,
+      "Weight": 400,
+      "Units": "g"
+    },
+    "Name": "Culinea listov\u00E9 t\u011Bsto mra\u017Een\u00E9",
+    "Description": "Listov\u00E9 t\u011Bsto Culinea mra\u017Een\u00E9",
+    "FinalWeight": "400",
+    "Weight": 400,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 21.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Podravka Original p\u0159\u00EDsada do j\u00EDdel",
+      "Description": "(100g zdarma) p\u0159\u00EDsada do j\u00EDdel, sypk\u00FD ko\u0159en\u00EDc\u00ED dehydratovan\u00FD p\u0159\u00EDpravek Podravka Original",
+      "Price": 79.9,
+      "Weight": 600,
+      "Units": "g"
+    },
+    "Name": "Podravka Original p\u0159\u00EDsada do j\u00EDdel",
+    "Description": "(100g zdarma) p\u0159\u00EDsada do j\u00EDdel, sypk\u00FD ko\u0159en\u00EDc\u00ED dehydratovan\u00FD p\u0159\u00EDpravek Podravka Original",
+    "FinalWeight": "600",
+    "Weight": 600,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 79.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Odkolek Slovansk\u00FD p\u0161eni\u010Dno\u017Eitn\u00FD chl\u00E9b",
+      "Description": "chl\u00E9b p\u0161eni\u010Dno\u017Eitn\u00FD Odkolek Slovansk\u00FD kraj\u00E1nek kr\u00E1jen\u00FD balen\u00FD",
+      "Price": 32.9,
+      "Weight": 400,
+      "Units": "g"
+    },
+    "Name": "Odkolek Slovansk\u00FD p\u0161eni\u010Dno\u017Eitn\u00FD chl\u00E9b",
+    "Description": "chl\u00E9b p\u0161eni\u010Dno\u017Eitn\u00FD Odkolek Slovansk\u00FD kraj\u00E1nek kr\u00E1jen\u00FD balen\u00FD",
+    "FinalWeight": "400",
+    "Weight": 400,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 32.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Mister Choc Milk and Chocolate \u010Dokol\u00E1dky",
+      "Description": "(8x mini bars) ml\u00E9\u010Dn\u00E9 \u010Dokol\u00E1dky s ml\u00E9\u010Dnou n\u00E1pln\u00ED Mister Choc Milk and Chocolate",
+      "Price": 32.9,
+      "Weight": 100,
+      "Units": "g"
+    },
+    "Name": "Mister Choc Milk and Chocolate \u010Dokol\u00E1dky",
+    "Description": "(8x mini bars) ml\u00E9\u010Dn\u00E9 \u010Dokol\u00E1dky s ml\u00E9\u010Dnou n\u00E1pln\u00ED Mister Choc Milk and Chocolate",
+    "FinalWeight": "100",
+    "Weight": 100,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 32.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Pilos tvaroh tu\u010Dn\u00FD",
+      "Description": "tvaroh tu\u010Dn\u00FD Pilos 11% tuku",
+      "Price": 27.9,
+      "Weight": 250,
+      "Units": "g"
+    },
+    "Name": "Pilos tvaroh tu\u010Dn\u00FD",
+    "Description": "tvaroh tu\u010Dn\u00FD Pilos 11% tuku",
+    "FinalWeight": "250",
+    "Weight": 250,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 27.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Milkbona Milk Snack kakaov\u00FD \u0159ez",
+      "Description": "Milbona Milk Snack kakaov\u00FD \u0159ez chlazen\u00FD s ml\u00E9\u010Dnou n\u00E1pln\u00ED",
+      "Price": 7.9,
+      "Weight": 28,
+      "Units": "g"
+    },
+    "Name": "Milkbona Milk Snack kakaov\u00FD \u0159ez",
+    "Description": "Milbona Milk Snack kakaov\u00FD \u0159ez chlazen\u00FD s ml\u00E9\u010Dnou n\u00E1pln\u00ED",
+    "FinalWeight": "28",
+    "Weight": 28,
+    "Units": "g",
+    "Amount": 10,
+    "UnitPrice": 7.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Chef Select mozzarella sendvi\u010D",
+      "Description": "Proteinov\u00FD sendvi\u010D Mozzarella Chef Select (32g b\u00EDlkovin, s\u00FDr mozzarella s bazalkov\u00FDm pestem, sal\u00E1tem, rukolou a su\u0161en\u00FDmi raj\u010Daty)",
+      "Price": 59.9,
+      "Weight": 185,
+      "Units": "g"
+    },
+    "Name": "Chef Select mozzarella sendvi\u010D",
+    "Description": "Proteinov\u00FD sendvi\u010D Mozzarella Chef Select (32g b\u00EDlkovin, s\u00FDr mozzarella s bazalkov\u00FDm pestem, sal\u00E1tem, rukolou a su\u0161en\u00FDmi raj\u010Daty)",
+    "FinalWeight": "185",
+    "Weight": 185,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 59.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Di Pi\u00FA OrtoRomi sal\u00E1t mix",
+      "Description": "Sal\u00E1t mix Di Pi\u00FA OrtoRomi",
+      "Price": 34.9,
+      "Weight": 160,
+      "Units": "g"
+    },
+    "Name": "Di Pi\u00FA OrtoRomi sal\u00E1t mix",
+    "Description": "Sal\u00E1t mix Di Pi\u00FA OrtoRomi",
+    "FinalWeight": "160",
+    "Weight": 160,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 34.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Tastino Balance Sandwich American Style - toastov\u00FD chl\u00E9b",
+      "Description": "v\u00EDcezrnn\u00FD toastov\u00FD chl\u00E9b tmav\u00FD s p\u0161enic\u00ED \u017Eitn\u00FDmi a ovesn\u00FDmi vlo\u010Dkami kr\u00E1jen\u00FD Tastino Balance Sandwich American Style extra soft",
+      "Price": 26.9,
+      "Weight": 375,
+      "Units": "g"
+    },
+    "Name": "Tastino Balance Sandwich American Style - toastov\u00FD chl\u00E9b",
+    "Description": "v\u00EDcezrnn\u00FD toastov\u00FD chl\u00E9b tmav\u00FD s p\u0161enic\u00ED \u017Eitn\u00FDmi a ovesn\u00FDmi vlo\u010Dkami kr\u00E1jen\u00FD Tastino Balance Sandwich American Style extra soft",
+    "FinalWeight": "375",
+    "Weight": 375,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 26.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Choco nussa l\u00EDskoo\u0159\u00ED\u0161kov\u00E1 pomaz\u00E1nka",
+      "Description": "l\u00EDskoo\u0159\u00ED\u0161kov\u00E1 kakaov\u00E1 pomaz\u00E1nka Choco nussa (13% o\u0159\u00ED\u0161k\u016F)",
+      "Price": 47.9,
+      "Weight": 400,
+      "Units": "g"
+    },
+    "Name": "Choco nussa l\u00EDskoo\u0159\u00ED\u0161kov\u00E1 pomaz\u00E1nka",
+    "Description": "l\u00EDskoo\u0159\u00ED\u0161kov\u00E1 kakaov\u00E1 pomaz\u00E1nka Choco nussa (13% o\u0159\u00ED\u0161k\u016F)",
+    "FinalWeight": "400",
+    "Weight": 400,
+    "Units": "g",
+    "Amount": 1,
+    "UnitPrice": 47.9,
+    "DiscountInput": null
+  },
+  {
+    "Model": {
+      "Name": "Lidl croissant m\u00E1slov\u00FD",
+      "Description": "croissant m\u00E1slov\u00FD jemn\u00E9 pe\u010Divo z Lidl pek\u00E1rny",
+      "Price": 9.9,
+      "Weight": 57,
+      "Units": "g"
+    },
+    "Name": "Lidl croissant m\u00E1slov\u00FD",
+    "Description": "croissant m\u00E1slov\u00FD jemn\u00E9 pe\u010Divo z Lidl pek\u00E1rny",
+    "FinalWeight": "57",
+    "Weight": 57,
+    "Units": "g",
+    "Amount": 2,
+    "UnitPrice": 9.9,
+    "DiscountInput": null
+  }
+]
